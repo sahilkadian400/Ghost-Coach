@@ -1,0 +1,6 @@
+{
+  "name": "Ghost Coach",
+  "description": "AI-powered athletic stance analysis and coaching platform that provides personalized, real-time feedback and structured training reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
